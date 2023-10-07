@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+    Paragraph tag
+</title>
+</head>
+<body>
+    <p>This is my <b>first</b> <i>webpage</i> using <u>tags</u> all along</p>
+</body>
+</html>
