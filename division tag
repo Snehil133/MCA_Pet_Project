@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>division tag</title>
+    </head>
+    <body>
+        <!-- div and it work on percentage of the page requred -->
+        <div style="width: 60%; height: 20%; background-color: pink";></div>
+        <div style="width: 60%; height: 60%; background-color: aqua";></div>
+        <div style="width: 60%; height: 20%; background-color: pink";></div>
+    </body>
+</html>
