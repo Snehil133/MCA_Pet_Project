@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        My first Div page
+    </title>
+
+    <body>
+
+<div style="background-color:black;color:white;width:40%;height:10%;">
+  <h1>
+    Saqqara
+  </h1>
+
+  <p>Download & browse through a list of restaurants,
+ cafes, bars, clubs, and other hospitality venues.
+  </p>
+  </div> 
+<div style="background-color:red;color: white;width:40%;height:10%;">
+   <h2>
+    Discover Best Offers
+    </h2>
+    <p>
+     Browse through the list of deals and choose 
+     the one that suits the best.
+    </p>
+     </div>
+
+      <div style="background-color:green;color: white;width:40%;height:10%;">
+       <h3>
+    Save & Redeem
+       </h3>
+       <p>
+     Earn Purple Points by completing various activities
+     and redeem them for discounts and rewards at the venues.
+     </p>
+
+         </div>
+
+            </div>
+
+                  </div>
+
+                        </body>
+
+                             </head>
