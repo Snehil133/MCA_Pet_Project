@@ -1,0 +1,19 @@
+<HTML>
+  <head>
+    <title>CSS</title>  
+    <style>
+      .top-box{height:204;width:1004;border:2px solid black; background-colour:red;}
+      .mid-box{height:204;width:1004;}
+    </style>
+  </head>
+  <body>
+    <div class="top-box"></div>div>
+    <div class="mid-box>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+  <img src=">
+  
+</HTML>
