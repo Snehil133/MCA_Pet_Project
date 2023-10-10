@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title> css </title>
+        <style> 
+             .heading1  {
+            height: 5%;
+            width: 50%;
+            }
+        
+            .paragraph {
+             height:30%;
+             width: 60%;
+            }
+            .img{
+                width: 80px;
+                height: 40px;
+                border: black;
+            }
+            </style>
+    </head>
+
+    <body>
+        <h1 class="heading1"> RADHA RANI </h1>
+        <p class="paragraph">Radha is the only sacred name. just chanting the name RADHA brings a felling of peace and transquility. the meaning of the name 
+            RADHA is welth, success, love of krishna, intellectual energy, prosperity, inspiration. the meaning of the name 
+            RADHA is so beautiful how much will be the glory of RADHA RANI.
+            RADHA RANI  was born in barshana village on monday at 12 o'clock in the day in ashtmi tithi of shukla paksha of bhadra pad.
+            RADHA RANI's father's name is brishbhanu and mother's name is kirti .RADHA RANI has many friends like lalita, vishakha,
+            chitra, sudevi but her best friend is lalita. thus, RADHA RANI  is considered to be the beloved of SHREE KRISHNA 
+            but she is the mother of the world, her glory is infinite. 
+            RADHA RANI has a lot of love and kindness in her heart, that is why she is called compassionate. </p>
+            <img class src=file:///C:/Users/KOMAL%20PRIYA/Downloads/radharani-in-garden-vrindavan-das.jpg>
+            <div class   = "heading1"></div> </div>
+            <div  class  = "paragraph"></div> </div>
+            <div class   =" img"> </div>
+        
+
+    </body>
+</html>
