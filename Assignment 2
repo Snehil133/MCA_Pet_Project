@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Practising HTML</title>
+<style>
+
+</style>
+</head>
+<body>
+<ol>
+  <h2>Things to do When I got up<\h1>
+     <li>put the kettle on</li>
+      <li>put the teabag in the cup</li>
+      <li>Wait for the kettle to boil</li>
+      <li>Pour the boiling water in the cup<\li>
+</ol>
+<ol>
+  <h2>Things to do When I go to bed<\h1>
+     <li>turn stuff off</li>
+      <li>put the cat out</li>
+      <li>Lock the doors</li>
+      <li>brush my teeth<\li>
+</ol>
+<ul>
+  <h2>Shopping List<\h2>
+    <li>tin of tomatoes</li>
+    <li>beacon</li>
+    <li>loaf of bread</li>
+    <li>mushrooms</li>
+    <li>Party guest list</li>
+      <ul>
+        <li>Bruce Wayne</li>
+        <li>Peter Parker</li>
+        <li>EMily Bronte</li>
+        <li>Alma Walcott</li>
+      </ul>
+</ul>
+</body>
+</html>
